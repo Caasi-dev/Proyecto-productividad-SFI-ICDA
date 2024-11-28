@@ -1,2 +1,4 @@
 # Proyecto-productividad-SFI-ICDA
-Aquí se almacenará el proyecto final de Introducción a la ciencia de datos elaborado por Isaac Sánchez Flores.
+1er Pyoyecto realizado para la clase Introducción a la ciencia de datos
+Elaborado por: Isaac Sanchez Flores
+Video: https://youtu.be/Jg85mBwXgyM
